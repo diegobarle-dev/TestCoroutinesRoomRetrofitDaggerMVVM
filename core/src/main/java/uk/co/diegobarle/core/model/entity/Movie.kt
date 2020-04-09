@@ -20,7 +20,7 @@ data class Movie(
     var releaseDate: String?,
 
     @ColumnInfo(name = "genresIds")
-    var genresIds: IdList,
+    var genresIds: IdList?,
 
     @ColumnInfo(name = "originalTitle")
     var originalTitle: String?,

@@ -21,7 +21,7 @@ data class IdList(val ids: List<Int>){
         @TypeConverter
         @JvmStatic
         fun toType(listStr: String?): IdList? {
-            if(listStr == null) return null
+            if(listStr.isNullOrBlank()) return null
             val list = ArrayList<Int>(listStr.split(",").map { Integer.parseInt(it) })
             return IdList(list)
         }
