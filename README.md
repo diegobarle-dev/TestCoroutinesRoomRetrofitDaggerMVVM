@@ -44,3 +44,8 @@ Module holding all the app's 'backend' implementation: Database, Network calls.
 - We could store locally the images downloaded for better connectivity performance (in case the user doesn't have connection).
 - Use glide to setup a default image when an error occurs trying to load them, and a Loading state image when the image is being loaded to the view.
 - Right now the app only displays the first 20 movies. Potentially use pagination library (jetpack) to allow search for more when the user reaches the bottom of the list.
+
+## Extras
+Movie DB API used
+- https://www.themoviedb.org/documentation/api
+- https://developers.themoviedb.org/3/getting-started/search-and-query-for-details
