@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movie_image_height_details">200dp</dimen>
+    <dimen name="movie_image_height_popular">150dp</dimen>
+    <dimen name="movie_image_height">100dp</dimen>
+</resources>

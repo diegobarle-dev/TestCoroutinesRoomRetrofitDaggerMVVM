@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="base_api_header_key">api_key</string>
+    <string name="base_api_key_value">ed1315f827f915ade2ff42156d66b06e</string>
+    <string name="base_api_url">https://api.themoviedb.org/</string>
+    <string name="base_api_image_url_w200">https://image.tmdb.org/t/p/w200/</string>
+</resources>

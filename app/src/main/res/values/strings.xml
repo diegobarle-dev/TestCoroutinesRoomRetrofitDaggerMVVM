@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies Forever</string>
+    <string name="most_popular">Most popular</string>
+    <string name="search">Search</string>
+</resources>
