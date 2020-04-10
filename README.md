@@ -10,6 +10,8 @@ This is a movies app that allows the user to search for movies and display them 
 When the user selects a movie from the lists, it displays more information about it.
 The Top Popular movies was implemented to show the hability of using different item views in the same RecyclerView.
 
+<img src=movies_forever.gif width="200">
+
 ## Technologies
 - Implemented in Kotin
 - Coroutines: the next level from RxJava, to allow responsive implementations using LiveData and Observables.
