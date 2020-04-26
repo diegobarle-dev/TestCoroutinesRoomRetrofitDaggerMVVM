@@ -14,7 +14,7 @@ The Top Popular movies was implemented to show the hability of using different i
 
 ## Technologies
 - Implemented in Kotin
-- Coroutines: the next level from RxJava, to allow responsive implementations using LiveData and Observables.
+- Coroutines + LiveData: the next level from RxJava, to allow responsive implementations using LiveData and Observables.
 - Room: local database used as the  only source of data for the consumers (UI) which links really well with LiveData.
 - Retrofit 2: network calls implementation to access the API.
 - Dagger 2: for Dependency Injection through the application.
